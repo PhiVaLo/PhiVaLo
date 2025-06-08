@@ -13,14 +13,17 @@ Tutorial:
 <!--🔖Stats -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
-    <img src="https://github-readme-stats-git-master-phivalos-projects.vercel.app/api?username=PhiVaLo&show_icons=true&theme=radical&hide=stars,contribs&include_all_commits=true&count_private=true&number_format=long" alt="PhiVa's GitHub stats" />
+    <img src="https://github-readme-stats-git-master-phivalos-projects.vercel.app/api?show_icons=true&theme=radical&hide=stars,contribs&include_all_commits=true&count_private=true&number_format=long&username=PhiVaLo" alt="PhiVa's GitHub stats" />
 </div>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<!--🔖Most Used Languages -->
 <!-- <div align="center">
     <img src="https://github-readme-stats-git-master-phivalos-projects.vercel.app/api/top-langs?username=PhiVaLo&show_icons=true&theme=radical&hide=stars,contribs&include_all_commits=true&count_private=true&number_format=long" alt="PhiVa's GitHub stats" />
 </div> -->
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
 
 <!--🔖Snake -->
 <picture>
@@ -31,6 +34,8 @@ Tutorial:
 
 ---
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<!-- 🔖Tech Stack -->
 
 ## 💻 Tech Stack
 <h4>Languages</h4>
