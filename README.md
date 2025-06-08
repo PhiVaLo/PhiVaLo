@@ -5,19 +5,12 @@ Tutorial:
 
 # Hello, I'm Phi Va 👋
 
-
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- ![PhiVa's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhiVaLo&show_icons=true&theme=radical&hide=stars,contribs&include_all_commits=true) -->
-<!-- ![PhiVa's GitHub stats](https://github-readme-stats-git-master-phivalos-projects.vercel.app/api?username=PhiVaLo&show_icons=true&theme=radical&hide=stars,contribs&include_all_commits=true&count_private=true) -->
-![PhiVa's GitHub stats](https://github-readme-stats-git-master-phivalos-projects.vercel.app/api?username=PhiVaLo&show_icons=true&theme=radical&hide=stars,contribs&include_all_commits=true&count_private=true&number_format=long)
+<div align="center">
+    <img src="https://github-readme-stats-git-master-phivalos-projects.vercel.app/api?username=PhiVaLo&show_icons=true&theme=radical&hide=stars,contribs&include_all_commits=true&count_private=true&number_format=long" alt="PhiVa's GitHub stats" />
+</div>
 
 
-
-
-
-<!-- Contributation -->
-#  📈 Contribution Graph
 <!--🔖Snake -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phivalo/phivalo/output/github-snake-dark.svg" />
@@ -30,9 +23,7 @@ Tutorial:
 
 
 
-# 💻 Tech Stack:
-<h2>🚀 Languages and Tools</h2>
-
+## 💻 Tech Stack
 <h4>Languages</h4>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  height="22" /></a>
@@ -72,7 +63,7 @@ Tutorial:
 <h4>Database</h4>
 <p>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"  height="22" /></a>
-<img src="https://pngimg.com/d/mysql_PNG23.png" alt="mysql"  height="22" /></a>
+<img src="https://i.imgur.com/hF5FVbx.png" alt="mysql"  height="22" /></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"  height="22" /></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="22" /></a>
 </p>
@@ -118,7 +109,6 @@ Tutorial:
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  height="22" /></a>
 <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" alt="github"  height="22" /></a>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="gitlab"  height="22" /></a>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"  height="22" /></a>
 <img src="https://user-images.githubusercontent.com/7585388/27636865-e6505c60-5c0d-11e7-92d1-1adc1ac81a11.png" alt="CLI"  height="22" /></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="CLI"  height="22" /></a>
