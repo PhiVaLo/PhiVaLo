@@ -3,7 +3,9 @@ Tutorial:
     https://www.youtube.com/watch?v=onUx22pgiBM
  -->
 
-## Hi there 👋
+# Hello, I'm Phi Va 👋
+
+
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![PhiVa's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhiVaLo&show_icons=true&theme=radical&hide=stars,contribs&include_all_commits=true) -->
@@ -11,51 +13,12 @@ Tutorial:
 
 ![PhiVa's GitHub stats](https://github-readme-stats-git-master-phivalos-projects.vercel.app/api?username=PhiVaLo&show_icons=true&theme=radical&hide=stars,contribs&include_all_commits=true&count_private=true&number_format=long)
 
-# 💻 Tech Stack:
 
-<!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  -->
-<!-- ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)  -->
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  -->
 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-<!-- ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  -->
-<!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  -->
-<!-- ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%232285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  -->
-<!-- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  -->
-<!-- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  -->
-<!-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  -->
-<!-- ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)  -->
-<!-- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  -->
-<!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  -->
-<!-- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  -->
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-<!-- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  -->
-<!-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  -->
-<!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  -->
-<!-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  -->
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<!-- ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)  -->
-<!-- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  -->
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<!-- ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)  -->
-<!-- ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)  -->
-<!-- ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  -->
-<!-- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) -->
-
+<!-- Contributation -->
+#  📈 Contribution Graph
 <!--🔖Snake -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phivalo/phivalo/output/github-snake-dark.svg" />
@@ -63,66 +26,104 @@ Tutorial:
     <img alt="github-snake" src="https://raw.githubusercontent.com/phivalo/phivalo/output/github-snake.svg" />
 </picture>
 
-<p>A passionate frontend developer from </p>
+
+
+
+
+
+# 💻 Tech Stack:
 <h2>🚀 Languages and Tools</h2>
 
-<h4 style="color:red;">Languages</h4>
+<h4>Languages</h4>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="22" height="22" /></a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="22" height="22" /></a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="22" height="22" /></a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="22" height="22" /></a>
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="22" height="22" /></a> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="22" height="22" /></a>
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="22" height="22" /></a> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="22" height="22" /></a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/F_Sharp_logo.svg" alt="fsharp" width="22" height="22" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  height="22" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"  height="22" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  height="22" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"  height="22" /></a>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  height="22" /></a> -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  height="22" /></a>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"  height="22" /></a> -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"  height="22" /></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/F_Sharp_logo.svg" alt="fsharp"  height="22" /></a>
 </p>
 
 
 <h4>Frontend Development</h4>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="22" height="22" /></a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="22" height="22" /></a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="22" height="22" /></a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="22" height="22" /></a>
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="22" height="22" /></a> -->
-<!-- <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="22" height="22" /></a> -->
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  height="22" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  height="22" /></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap"  height="22" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"  height="22" /></a>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs"  height="22" /></a> -->
+<!-- <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"  height="22" /></a> -->
+</p>
 
-<!-- <h4>Backend Development</h4> -->
+
+<h4>Backend Development</h4>
+<p>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-microsoft-dotnet-1175177.png?f=webp" alt="dotnet"  height="22" /></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="blazor"  height="22" /></a>
+<img src="https://i.imgur.com/ewmrtGR.png" alt="git"  height="22" /></a>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django"  height="22" /></a>
+</p>
+
+
 <!-- <h4>Mobile App Development</h4> -->
 <!-- <h4>AI/ML</h4> -->
 <h4>Database</h4>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="22" height="22" /></a>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="22" height="22" /></a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22" /></a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="22" height="22" /></a>
+<p>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"  height="22" /></a>
+<img src="https://pngimg.com/d/mysql_PNG23.png" alt="mysql"  height="22" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"  height="22" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="22" /></a>
+</p>
 
 
 <h4>Data Visualization</h4>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="22" height="22" /></a>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js"  height="22" /></a>
+</p>
+
+
 
 <h4>Devops</h4>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="bash" width="22" height="22" /></a>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="22" height="22" /></a>
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="bash"  height="22" /></a>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"  height="22" /></a>
+</p>
+
+
 
 <!-- <h4>Backend as a Service(BaaS)</h4> -->
-<h4>Framework</h4>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="22" height="22" /></a>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-microsoft-dotnet-1175177.png?f=webp" alt="dotnet" width="22" height="22" /></a>
-<img src="https://i.imgur.com/ewmrtGR.png" alt="git" width="22" height="22" /></a>
+
 
 
 <!-- <h4>Testing</h4> -->
 <h4>Software</h4>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22" /></a>
+<p>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"  height="22" /></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/1280px_Markdown_with_White_Background.png" alt="markdown"  height="22" /></a>
+</p>
 
 
 <h4>Game Engines</h4>
-<img src="https://img.icons8.com/ios_filled/200/FFFFFF/unity.png" alt="unity" width="22" height="22" /></a>
+<p>
+<img src="https://img.icons8.com/ios_filled/200/FFFFFF/unity.png" alt="unity"  height="22" /></a>
+</p>
+
+
+
 
 <h4>Other</h4>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="22" height="22" /></a>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22" /></a>
+<p>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  height="22" /></a>
+<img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" alt="github"  height="22" /></a>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="gitlab"  height="22" /></a>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"  height="22" /></a>
+<img src="https://user-images.githubusercontent.com/7585388/27636865-e6505c60-5c0d-11e7-92d1-1adc1ac81a11.png" alt="CLI"  height="22" /></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="CLI"  height="22" /></a>
+</p>
 
 
 
