@@ -66,7 +66,8 @@ Tutorial:
 <p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools</h2>
 
-<h4>Languages</h4>
+<h4 style="color:red;">Languages</h4>
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="22" height="22" /></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="22" height="22" /></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="22" height="22" /></a>
@@ -76,6 +77,8 @@ Tutorial:
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="22" height="22" /></a> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="22" height="22" /></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/F_Sharp_logo.svg" alt="fsharp" width="22" height="22" /></a>
+</p>
+
 
 <h4>Frontend Development</h4>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="22" height="22" /></a>
@@ -115,7 +118,8 @@ Tutorial:
 
 
 <h4>Game Engines</h4>
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="22" height="22" /></a>
+<img src="https://img.icons8.com/ios_filled/200/FFFFFF/unity.png" alt="unity" width="22" height="22" /></a>
+
 <h4>Other</h4>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="22" height="22" /></a>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22" /></a>
