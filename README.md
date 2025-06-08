@@ -19,7 +19,7 @@ Tutorial:
 </picture>
 
 
-
+---
 
 
 
@@ -91,8 +91,9 @@ Tutorial:
 <!-- <h4>Testing</h4> -->
 <h4>Software</h4>
 <p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode"  height="42" /></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/1200px-Diagrams.net_Logo.svg.png" alt="drawio"  height="42" /></a>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"  height="42" /></a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/1280px_Markdown_with_White_Background.png" alt="markdown"  height="42" /></a>
 </p>
 
 
@@ -110,8 +111,10 @@ Tutorial:
 <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" alt="github"  height="42" /></a>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="gitlab"  height="42" /></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"  height="42" /></a>
-<img src="https://user-images.githubusercontent.com/7585388/27636865-e6505c60-5c0d-11e7-92d1-1adc1ac81a11.png" alt="CLI"  height="42" /></a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="CLI"  height="42" /></a>
+<!-- <img src="https://user-images.githubusercontent.com/7585388/27636865-e6505c60-5c0d-11e7-92d1-1adc1ac81a11.png" alt="CLI"  height="42" /></a> -->
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell"  height="42" /></a> -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/1280px_Markdown_with_White_Background.png" alt="markdown"  height="42" /></a>
+
 </p>
 
 
@@ -119,7 +122,7 @@ Tutorial:
 
 
 
-
+---
 
 
 
