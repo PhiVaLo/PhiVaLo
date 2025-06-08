@@ -5,13 +5,12 @@ Tutorial:
 
 # Hello, I'm Phi Va 👋
 
-
 <p><a target="_blank" href="https://www.linkedin.com/in/phivalo" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" target="_blank" /></a></p>
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=phivalo.phivalo&"/> -->
 
 ---
 
-
+<!--🔖Stats -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
     <img src="https://github-readme-stats-git-master-phivalos-projects.vercel.app/api?username=PhiVaLo&show_icons=true&theme=radical&hide=stars,contribs&include_all_commits=true&count_private=true&number_format=long" alt="PhiVa's GitHub stats" />
@@ -20,7 +19,7 @@ Tutorial:
     <img src="https://github-readme-stats-git-master-phivalos-projects.vercel.app/api/top-langs?username=PhiVaLo&show_icons=true&theme=radical&hide=stars,contribs&include_all_commits=true&count_private=true&number_format=long" alt="PhiVa's GitHub stats" />
 </div> -->
 
-
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
 <!--🔖Snake -->
@@ -30,12 +29,8 @@ Tutorial:
     <img alt="github-snake" src="https://raw.githubusercontent.com/phivalo/phivalo/output/github-snake.svg" />
 </picture>
 
-
-
-
 ---
-
-
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 ## 💻 Tech Stack
 <h4>Languages</h4>
@@ -54,8 +49,10 @@ Tutorial:
 
 <h4>Frontend Development</h4>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  height="42" /></a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  height="42" /></a>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  height="42" /></a> -->
+<img src="https://i.imgur.com/xYpfO1R.png" alt="html5"  height="42" /></a>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  height="42" /></a> -->
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3"  height="42" /></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap"  height="42" /></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"  height="42" /></a>
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs"  height="42" /></a> -->
@@ -66,6 +63,7 @@ Tutorial:
 <h4>Backend Development</h4>
 <p>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-microsoft-dotnet-1175177.png?f=webp" alt="dotnet"  height="42" /></a>
+<img src="https://i.imgur.com/Ax4AZM4.png" alt="efcore"  height="42" /></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="blazor"  height="42" /></a>
 <img src="https://i.imgur.com/ewmrtGR.png" alt="git"  height="42" /></a>
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django"  height="42" /></a>
@@ -99,14 +97,12 @@ Tutorial:
 
 
 <!-- <h4>Backend as a Service(BaaS)</h4> -->
-
-
-
 <!-- <h4>Testing</h4> -->
 <h4>Software</h4>
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode"  height="42" /></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/1200px-Diagrams.net_Logo.svg.png" alt="drawio"  height="42" /></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" alt="blender"  height="42" /></a>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"  height="42" /></a>
 </p>
 
@@ -115,8 +111,6 @@ Tutorial:
 <p>
 <img src="https://img.icons8.com/ios_filled/200/FFFFFF/unity.png" alt="unity"  height="42" /></a>
 </p>
-
-
 
 
 <h4>Other</h4>
@@ -128,16 +122,10 @@ Tutorial:
 <!-- <img src="https://user-images.githubusercontent.com/7585388/27636865-e6505c60-5c0d-11e7-92d1-1adc1ac81a11.png" alt="CLI"  height="42" /></a> -->
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell"  height="42" /></a> -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/1280px_Markdown_with_White_Background.png" alt="markdown"  height="42" /></a>
-
 </p>
-
-
-
-
-
-
 ---
 
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
 
