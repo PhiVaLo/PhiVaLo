@@ -8,10 +8,9 @@
 
 </div>
 
-<!-- --- -->
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!--🔖Socials -->
-<!-- <p><a target="_blank" href="https://www.linkedin.com/in/phivalo" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" target="_blank" /></a></p> -->
 
 <div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/phivalo">
@@ -22,11 +21,8 @@
 </a>
 </div>
 
-
-
-
-
 ---
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!--🔖Stats -->
 <div align="center">
