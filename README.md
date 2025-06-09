@@ -14,10 +14,10 @@
 <!-- <p><a target="_blank" href="https://www.linkedin.com/in/phivalo" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" target="_blank" /></a></p> -->
 
 <div align="center">
-<a target="_blank" href="https://www.linkedin.com/in/phivalo" style="display: inline-block;">
+<a target="_blank" href="https://www.linkedin.com/in/phivalo" width="52">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
-<a target="_blank" href="https://discord.com/users/168082885847416832" style="display: inline-block;">
+<a target="_blank" href="https://discord.com/users/168082885847416832" width="52">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </a>
 </div>
