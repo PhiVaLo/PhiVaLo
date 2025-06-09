@@ -1,12 +1,19 @@
 # Hello, I'm Phi Va 👋
 
+<!--🔖Profile Views -->
+![](https://komarev.com/ghpvc/?username=PhiVaLo&color=dc143c&label=Profile+Views)
+
+---
+
+<!--🔖Socials -->
 <p><a target="_blank" href="https://www.linkedin.com/in/phivalo" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" target="_blank" /></a></p>
 
 ---
 
 <!--🔖Stats -->
 <div align="center">
-    <img src="https://github-readme-stats-git-master-phivalos-projects.vercel.app/api?show_icons=true&theme=algolia&hide=stars,contribs&include_all_commits=true&count_private=true&number_format=long&rank_icon=github&username=PhiVaLo" alt="PhiVa's GitHub stats" />
+    <!-- <img src="https://github-readme-stats-git-master-phivalos-projects.vercel.app/api?show_icons=true&theme=algolia&hide=stars,contribs&include_all_commits=true&count_private=true&number_format=long&rank_icon=github&username=PhiVaLo" alt="PhiVa's GitHub stats" /> -->
+    <img src="https://github-readme-stats-git-master-phivalos-projects.vercel.app/api?show_icons=true&theme=algolia&include_all_commits=true&count_private=true&number_format=long&rank_icon=github&username=PhiVaLo" alt="PhiVa's GitHub stats" />
 </div>
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -56,7 +63,7 @@
 
 <h4>Backend Development</h4>
 <p>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-microsoft-dotnet-1175177.png?f=webp" alt="dotnet"  height="42" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet"  height="42" /></a>
 <img src="https://i.imgur.com/Ax4AZM4.png" alt="efcore"  height="42" /></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="blazor"  height="42" /></a>
 <img src="https://i.imgur.com/ewmrtGR.png" alt="git"  height="42" /></a>
@@ -94,6 +101,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/1200px-Diagrams.net_Logo.svg.png" alt="drawio"  height="42" /></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" alt="blender"  height="42" /></a>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"  height="42" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="42" alt="jira logo"  />
 </p>
 
 
@@ -113,8 +121,4 @@
 </p>
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-
-
-
 
