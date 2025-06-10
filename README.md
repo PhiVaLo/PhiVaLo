@@ -1,4 +1,3 @@
-# Hello, I'm Phi Va 👋
 
 <!--🔖Profile Views -->
 
@@ -8,11 +7,14 @@
 
 </div>
 
+
+# Hello, I'm Phi Va 👋
+
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!--🔖Socials -->
 
-<div align="center">
+<div align="left">
 <a target="_blank" href="https://www.linkedin.com/in/phivalo">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="42" alt="linkedin logo"  />
 </a>
