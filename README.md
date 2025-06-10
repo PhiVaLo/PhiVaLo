@@ -29,7 +29,7 @@
 <!--🔖Stats -->
 <div align="center">
     <!-- <img src="https://github-readme-stats-git-master-phivalos-projects.vercel.app/api?show_icons=true&theme=algolia&hide=stars,contribs&include_all_commits=true&count_private=true&number_format=long&rank_icon=github&username=PhiVaLo" alt="PhiVa's GitHub stats" /> -->
-    <img src="https://github-readme-stats-git-master-phivalos-projects.vercel.app/api?show_icons=true&theme=algolia&include_all_commits=true&count_private=true&number_format=long&rank_icon=github&username=PhiVaLo" alt="PhiVa's GitHub stats" />
+    <img src="https://github-readme-stats-git-master-phivalos-projects.vercel.app/api?show_icons=true&theme=algolia&hide=stars&include_all_commits=true&count_private=true&number_format=long&rank_icon=github&username=PhiVaLo" alt="PhiVa's GitHub stats" />
 </div>
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------->
